@@ -27,10 +27,10 @@ Here are pictures of my pcb:
 
 
 ##BOM
-| Id | Designator | Footprint                                        | Quantity | Designation    | Supplier and ref | RS Stock No | Title                                                                                    | Manufacturer Part No | Unit Price |
-| -- | ---------- | ------------------------------------------------ | -------- | -------------- | ---------------- | ----------- | ---------------------------------------------------------------------------------------- | -------------------- | ---------- |
-| 1  | D1         | LED_D5.0mm_Clear                                 | 1        | LED Red        |                  | 2285972     | Kingbright 2 V Red LED 5mm Through Hole                                                  | L-53ID               | 0.17       |
-| 2  | D2         | LED_D5.0mm_Clear                                 | 1        | LED Yellow     |                  | 2471684     | Kingbright 2.5 V Yellow LED 5mm Through Hole                                             | L-53SYD              | 0.312      |
-| 3  | D3         | LED_D5.0mm_Clear                                 | 1        | LED Green      |                  | 2286004     | Kingbright 2 V Green LED 5mm Through Hole                                                | L-53GD               | 0.17       |
-| 4  | R1, R2, R3 | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | 3        | 150Ω Resistor  |                  | 7077603     | RS PRO 150Ω Carbon Film Resistor 0.25W ±5%                                               |                      | 0.145      |
-| 5  | J1         | PinHeader_1x04_P1.27mm_Horizontal                | 1        | Conn_01x04_Pin |                  | 1982926     | Samtec TMS Series Right Angle Pin Header, 4 Contact(s), 1.27 mm Pitch, 1 Row, Unshrouded | TMS-104-01-G-S-RA    | 0.78       |
+| Id | Reference  | Component      | Footprint                                        | Quantity | RS Stock No | Title                                                                                    | Manufacturer Part No | Unit Price |
+| -- | ---------- | -------------- | ------------------------------------------------ | -------- | ----------- | ---------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| 1  | D1         | LED Red        | LED_D5.0mm_Clear                                 | 1        | 2285972     | Kingbright 2 V Red LED 5mm Through Hole                                                  | L-53ID               | 0.17       |
+| 2  | D2         | LED Yellow     | LED_D5.0mm_Clear                                 | 1        | 2471684     | Kingbright 2.5 V Yellow LED 5mm Through Hole                                             | L-53SYD              | 0.312      |
+| 3  | D3         | LED Green      | LED_D5.0mm_Clear                                 | 1        | 2286004     | Kingbright 2 V Green LED 5mm Through Hole                                                | L-53GD               | 0.17       |
+| 4  | R1, R2, R3 | 150Ω Resistor  | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | 3        | 7077603     | RS PRO 150Ω Carbon Film Resistor 0.25W ±5%                                               |                      | 0.145      |
+| 5  | J1         | Conn_01x04_Pin | PinHeader_1x04_P1.27mm_Horizontal                | 1        | 1982926     | Samtec TMS Series Right Angle Pin Header, 4 Contact(s), 1.27 mm Pitch, 1 Row, Unshrouded | TMS-104-01-G-S-RA    | 0.78       |
