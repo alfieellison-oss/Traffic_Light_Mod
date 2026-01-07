@@ -23,6 +23,10 @@ Here are pictures of my pcb:
 <img width="202" height="448" alt="image" src="https://github.com/user-attachments/assets/32a76acb-e50f-4377-a24c-7a74fe26f590" />
 <img width="202" height="448" alt="image" src="https://github.com/user-attachments/assets/f0186697-f361-427e-bd38-fc44258dfa60" />
 
+## Case
+ To lenghten the life of the module i decided to add a case to it that should help prevent the solder jpints from cracing due to acidental bending.
+ 
+ <img width="550" height="420" alt="image" src="https://github.com/user-attachments/assets/8f504a72-6fa9-4169-a162-55502e157e83" />
 
 
 
